@@ -12,7 +12,7 @@ public class Main {
         String[] ogrenciler = new String[3];
         ogrenciler[0] = "Engin";
         ogrenciler[1] = "Derin";
-        ogrenciler[2] = "Emre";
+        ogrenciler[2] = "AhmetBaris";
 
         for (int i = 0; i < ogrenciler.length; i++) {
             System.out.println(ogrenciler[i]);
